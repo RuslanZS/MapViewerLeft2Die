@@ -1,0 +1,6 @@
+MODEL=/untitled.3d
+TEXTURE=/ms.png
+SCALE=25
+
+SKY_MODEL=/skybox.3d
+SKY_TEXTURE=/sky.png
